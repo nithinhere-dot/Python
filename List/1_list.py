@@ -1,5 +1,8 @@
 numbers = [10, 20, 30, 40]
 
+#list can contain different types
+data=["nithin",1,23,True]
+
 # Access
 print(numbers[0])
 print(numbers[-1])
@@ -24,3 +27,6 @@ print(len(numbers))
 
 # Slicing
 print(numbers[1:3])
+print(numbers[:3]) # first 3
+print(numbers[2:]) # from index 2
+print(numbers[:]) # entire list
