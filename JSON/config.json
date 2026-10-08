@@ -1,0 +1,1 @@
+{"name": "ImageClassifier", "version": 2, "accuracy": 0.95, "active": true, "tags": ["Image", "Classification"], "config": {"batch_size": 32, "learning_rate": 0.001}}
